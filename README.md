@@ -10,45 +10,68 @@
 ## 🌟 About Me
 
 - 🎓 Pursuing **B.Tech in Computer Science** from GPCET, Kurnool (2021–2025)  
-- 💻 Proficient in **Java, Python, JavaScript**, and modern frameworks  
-- 🌐 Love crafting responsive UIs and building scalable backend systems  
-- ✍️ Continuously exploring better ways to build, learn, and solve problems
+- 💻 Skilled in **Java, Python, JavaScript**, and popular modern frameworks  
+- 🌐 Enjoy building responsive UIs and scalable backend systems  
+- ✍️ Always exploring new ways to learn, build, and grow
 
 ---
 
 ## 🔧 Tech Stack
 
-**Languages & Core:**  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+<table>
+  <tr>
+    <td><b>Languages & Core</b></td>
+    <td>
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+</td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend & DB:**  
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+</td>
+  </tr>
+  <tr>
+    <td><b>Backend & DB</b></td>
+    <td>
+
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+</td>
+  </tr>
+  <tr>
+    <td><b>Tools & Platforms</b></td>
+    <td>
+
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🎬 [Playnex – Movie Streaming App](https://block-vault-ten.vercel.app/)
-> A sleek, responsive streaming platform UI using HTML, CSS, and JavaScript.
+### 🩺 [Skin Disease Classification Using GAN](https://github.com/junaid-79/skin-disease-classification)
+> Enhanced skin disease classification using GAN-generated synthetic images to improve CNN training and generalization. Built with Python and deep learning libraries.
 
-### 📊 [Students Performance Factor Analysis](https://github.com/junaid-79/Students_Performance_Factor)
-> Analyzed student performance using data visualization and statistical methods.
+### 🎬 [Playnex – Movie Streaming App](https://block-vault-ten.vercel.app/)
+> A sleek and responsive streaming platform UI built using HTML, CSS, and JavaScript.
 
 ---
 
