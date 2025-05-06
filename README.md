@@ -112,7 +112,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=junaid-79&label=Profile%20Views&color=0&icon=0&pretty=true" />
-</p>
+
 
