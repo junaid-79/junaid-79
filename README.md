@@ -1,6 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm M Junaid Ahammed
 </h1>
+
 <h3 align="center">
   Full-Stack Developer | Problem Solver | Tech Enthusiast
 </h3>
@@ -10,7 +11,7 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about building real-world web applications and delivering clean, efficient code across the stack.  
+  🚀 Passionate about crafting real-world web apps and writing clean, efficient code across the stack.  
   <br />
   <br />
   <img src="https://komarev.com/ghpvc/?username=junaid-79&style=flat-square&color=blue" alt="profile-views" />
@@ -22,32 +23,32 @@
 
 - 🎓 Pursuing **B.Tech in Computer Science** from GPCET, Kurnool (2021–2025)  
 - 💻 Skilled in **Java, Python, JavaScript**, and modern frameworks  
-- 🌐 Love building scalable full-stack projects  
-- 📚 Constantly learning and exploring new tech  
+- 🌐 Enthusiastic about building scalable full-stack projects  
+- 📚 Always learning and exploring emerging tech  
 - 🧠 Currently diving into **Next.js** and **TypeScript**
 
 ---
 
-## 🔧 Tech Stack
+## 🧰 Tech Stack
 
-### 🖥️ Languages
+### 🖥️ Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend
+### 🌐 Frontend  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🛠 Backend & Databases
+### 🛠 Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -56,11 +57,11 @@
 
 ## 🔥 Featured Projects
 
-### 🩺 [Skin Disease Classification Using GAN](https://github.com/junaid-79/skin-disease-classification)
-> 🧬 GAN-powered skin disease classification to boost CNN accuracy. Built using Python and TensorFlow.
+### 🩺 [Skin Disease Classification Using GAN](https://github.com/junaid-79/skin-disease-classification)  
+> 🧬 GAN-powered model for accurate skin disease classification using Python & TensorFlow.
 
-### 🎬 [Playnex – Movie Streaming App](https://block-vault-ten.vercel.app/)
-> 🎥 Fully responsive movie streaming platform UI with HTML, CSS, JS.
+### 🎬 [Playnex – Movie Streaming App](https://block-vault-ten.vercel.app/)  
+> 🎥 A sleek, responsive front-end movie streaming UI using HTML, CSS, and JavaScript.
 
 ---
 
@@ -93,12 +94,11 @@
 
 ---
 
-## 🕒 WakaTime Coding Activity (Optional)
+## 📊 Dev Metrics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> ⏱ This section updates automatically every day based on your coding time using [WakaTime](https://wakatime.com/)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=junaid-79&theme=dracula&hide_border=true" />
+</p>
 
 ---
 
