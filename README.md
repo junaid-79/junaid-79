@@ -12,8 +12,7 @@
 
 <p align="center">
   🚀 Passionate about crafting real-world web apps and writing clean, efficient code across the stack.  
-  <br />
-  <br />
+  <br /><br />
   <img src="https://komarev.com/ghpvc/?username=junaid-79&style=flat-square&color=blue" alt="profile-views" />
 </p>
 
@@ -24,8 +23,8 @@
 - 🎓 Pursuing **B.Tech in Computer Science** from GPCET, Kurnool (2021–2025)  
 - 💻 Skilled in **Java, Python, JavaScript**, and modern frameworks  
 - 🌐 Enthusiastic about building scalable full-stack projects  
-- 📚 Always learning and exploring emerging tech  
-- 🧠 Currently diving into **Next.js** and **TypeScript**
+- 📚 Constantly learning and exploring emerging tech  
+- 🧠 Currently diving into **Web Dev**
 
 ---
 
@@ -57,11 +56,14 @@
 
 ## 🔥 Featured Projects
 
-### 🩺 [Skin Disease Classification Using GAN](https://github.com/junaid-79/skin-disease-classification)  
-> 🧬 GAN-powered model for accurate skin disease classification using Python & TensorFlow.
+### 📄 [PDFChat](https://github.com/junaid-79/pdfchat)  
+> 💬 A smart AI-powered PDF chatbot built using **LangChain**, **Next.js**, and **OpenAI APIs** to answer questions from uploaded PDFs.
 
-### 🎬 [Playnex – Movie Streaming App](https://block-vault-ten.vercel.app/)  
-> 🎥 A sleek, responsive front-end movie streaming UI using HTML, CSS, and JavaScript.
+### 🌾 [DeHarvest](https://github.com/junaid-79/deharvest)  
+> 🌿 A farmer-friendly platform that leverages AI to suggest crop types based on soil and weather conditions.
+
+### 🧠 [SkinAI](https://github.com/junaid-79/SkinAI)  
+> 🩺 A web-based tool that classifies skin diseases using deep learning. Built with **Flask**, **TensorFlow**, and **CNN models**.
 
 ---
 
@@ -107,5 +109,3 @@
 - 📧 **junaidahammed03@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/junaid-ahammed-30539125a/)  
 - 🧑‍💻 [GitHub](https://github.com/junaid-79)
-
----
